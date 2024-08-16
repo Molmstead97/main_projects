@@ -1,0 +1,8 @@
+alembic
+fastapi
+psycopg2
+python-decouple
+sqlmodel
+uvicorn
+beautifulsoup4
+requests
