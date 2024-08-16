@@ -1,2 +1,5 @@
-# main_projects
-Repo where major projects will be kept
+# Mini Pokemon Database
+
+Setup Instructions:
+
+1 - 
